@@ -1,0 +1,14 @@
+__pycache__/
+.git/
+.ipynb_checkpoints/
+
+venv/
+.venv/
+
+*.ipynb
+
+.idea/
+
+*.log
+
+.DS_Store
