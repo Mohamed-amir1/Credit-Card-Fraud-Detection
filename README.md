@@ -66,7 +66,14 @@ Fraud Class:
 - Recall: 0.80
 - F1-score: 0.82
 
-Accuracy: 1.00 (affected by class imbalance)
+Confusion Matrix:
+<img width="466" height="372" alt="image" src="https://github.com/user-attachments/assets/f5a5e617-2359-44d7-8f9d-cbc1cc31776a" />
+
+SHAP:
+<img width="685" height="786" alt="image" src="https://github.com/user-attachments/assets/8fffc8e2-5ce8-44a4-8613-fd4e65bb0014" />
+
+
+
 
 ## Business Insights
 
@@ -103,10 +110,7 @@ Model interpretability is achieved using:
 
 The model is deployed using FastAPI for real-time predictions.
 
-Endpoints:
-- / → Health check
-- /predict → Fraud prediction endpoint
-
+د
 ## Docker
 
 The project is containerized using Docker.
@@ -129,6 +133,7 @@ http://localhost:8000
 ## How to Run
 
 pip install -r requirements.txt
+
 uvicorn app:app --reload
 
 ## Example Request
