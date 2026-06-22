@@ -5,3 +5,8 @@ numpy
 scikit-learn
 xgboost
 joblib
+pydantic
+shap
+matplotlib
+seaborn
+requests
