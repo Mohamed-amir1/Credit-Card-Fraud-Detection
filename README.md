@@ -11,6 +11,8 @@ The goal is to build a reliable system that can detect fraudulent transactions i
 Credit card fraud is a highly imbalanced classification problem where fraudulent transactions are extremely rare compared to legitimate ones. The challenge is to maximize fraud detection (recall) while minimizing false alerts (precision trade-off).
 
 ## Dataset
+Full dataset is not included due to size constraints.
+A 1000-row stratified sample is provided for demonstration purposes.
 
 The dataset includes transaction-level information such as:
 
