@@ -112,7 +112,6 @@ Model interpretability is achieved using:
 
 The model is deployed using FastAPI for real-time predictions.
 
-د
 ## Docker
 
 The project is containerized using Docker.
