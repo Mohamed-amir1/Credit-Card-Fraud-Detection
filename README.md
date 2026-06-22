@@ -67,9 +67,11 @@ Fraud Class:
 - F1-score: 0.82
 
 Confusion Matrix:
+
 <img width="466" height="372" alt="image" src="https://github.com/user-attachments/assets/f5a5e617-2359-44d7-8f9d-cbc1cc31776a" />
 
 SHAP:
+
 <img width="685" height="786" alt="image" src="https://github.com/user-attachments/assets/8fffc8e2-5ce8-44a4-8613-fd4e65bb0014" />
 
 
