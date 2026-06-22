@@ -158,9 +158,9 @@ uvicorn app:app --reload
 ## Output Example
 
 {
-  "fraud_probability": 0.72,
-  "fraud_prediction": 1,
-  "threshold_used": 0.9578745
+  "fraud_probability": 0.5304436683654785,
+  "fraud_prediction": 0,
+  "threshold_used": 0.9578744769096375
 }
 
 ## Tech Stack
