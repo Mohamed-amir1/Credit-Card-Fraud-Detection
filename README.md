@@ -59,6 +59,17 @@ Instead of using the default threshold (0.5), the optimal threshold was selected
 Best Threshold:
 0.9578745
 
+## Cross Validation
+
+5-Fold Stratified Cross Validation was used to evaluate model stability.
+
+Results:
+
+- Mean ROC-AUC: 0.9963
+- Standard Deviation: 0.0006
+
+The model demonstrated highly consistent performance across different data splits, indicating strong generalization ability.
+
 ## Model Performance
 
 AUC Score: 0.9963
