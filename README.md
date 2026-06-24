@@ -188,6 +188,4 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, FastAPI, Docker, Joblib
 
 ## Conclusion
 
-This project demonstrates a complete machine learning lifecycle from data preprocessing to deployment. It effectively detects fraudulent transactions using optimized thresholding and provides interpretability for real-world decision-making.
-
-The system is production-ready and can be extended with monitoring, logging, and real-time streaming integrations.
+This project demonstrates a complete machine learning lifecycle from data preprocessing to deployment. The model achieved an ROC-AUC score of 0.9963 and maintained highly stable performance across 5-fold cross validation.
